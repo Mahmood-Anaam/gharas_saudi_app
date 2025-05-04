@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671384667532",
+    "project_id": "gharas-saudi-flutter",
+    "storage_bucket": "gharas-saudi-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671384667532:android:170578f85aed11a97942a9",
+        "android_client_info": {
+          "package_name": "com.example.gharas_saudi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671384667532-ilup8s8kaoos3guke528dod1t30ul41u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5wFNBQ45xIYKv6_bsCDyHRqe6Yjb_-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671384667532-ilup8s8kaoos3guke528dod1t30ul41u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671384667532-o8ms5j0bp4dheiqb6l4j6nkf0bmdqsvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterGharasSaudi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
